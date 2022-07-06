@@ -122,22 +122,6 @@ div.donate-plan p {
   text-align: left;
   padding-top: 8%;
 }
-footer {
-  background-color: black;
-  background-size: cover;
-  height: 150px;
-  padding-top: 3%;
-}
-footer h3 {
-  color: crimson;
-  font-size: 35px;
-  padding-top: 2%;
-  padding-bottom: 1%;
-  font-family: "Lobster", cursive;
-}
-footer p {
-  color: white;
-}
 #email {
   width: 40%;
   height: 46px;
@@ -182,4 +166,20 @@ footer p {
 }
 .display {
   display: flex;
+}
+footer {
+  background-color: black;
+  background-size: cover;
+  height: 150px;
+  padding-top: 3%;
+}
+footer h3 {
+  color: crimson;
+  font-size: 35px;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  font-family: "Lobster", cursive;
+}
+footer p {
+  color: white;
 }
