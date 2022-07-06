@@ -78,17 +78,14 @@ h3.donate-plan-text {
   color: red;
   border: 2px solid red;
 }
-div.line hr {
-  margin-bottom: 4%;
-  width: 60%;
-  margin-left: 20%;
-  background-color: rgb(155, 145, 145);
-  border: none;
-  height: 1px;
+.line {
+  padding-top: 4%;
+  padding-bottom: 2%;
 }
-div.line p {
-  margin-top: 4%;
-  font-size: 20px;
+#taka {
+  width: 40%;
+  height: 46px;
+  background-color: white;
 }
 .donate-plan {
   font-size: 20px;
